@@ -11,3 +11,5 @@ End
 Learning git...
 
 test_line
+
+This line is for master.
