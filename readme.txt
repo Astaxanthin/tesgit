@@ -17,3 +17,5 @@ This line is for master.
 This line is for dev.
 
 This line is for issue-404
+
+This line is added by Carotenoids.
